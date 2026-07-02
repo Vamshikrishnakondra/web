@@ -1,0 +1,5 @@
+streamlit
+cloudinary
+folium
+streamlit-folium
+scikit-learn
