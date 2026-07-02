@@ -1,5 +1,9 @@
 streamlit
-cloudinary
-folium
-streamlit-folium
+pandas
+numpy
+matplotlib
+plotly
+seaborn
 scikit-learn
+openpyxl
+prophet
