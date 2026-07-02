@@ -190,16 +190,6 @@ prophet
 - Deep Learning Forecasting
 - User Authentication
 - Cloud Deployment
-
----
-
-## 👨‍💻 Author
-
-**Sabyasachi Das**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
-
 ---
 
 ## ⭐ If you like this project
